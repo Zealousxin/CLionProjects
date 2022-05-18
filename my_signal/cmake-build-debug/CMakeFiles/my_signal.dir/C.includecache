@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/ZHOUXIN/CLionProjects/my_signal/test_settimer.c
+stdio.h
+/mnt/c/Users/ZHOUXIN/CLionProjects/my_signal/stdio.h
+signal.h
+/mnt/c/Users/ZHOUXIN/CLionProjects/my_signal/signal.h
+sys/time.h
+/mnt/c/Users/ZHOUXIN/CLionProjects/my_signal/sys/time.h
+unistd.h
+/mnt/c/Users/ZHOUXIN/CLionProjects/my_signal/unistd.h
+

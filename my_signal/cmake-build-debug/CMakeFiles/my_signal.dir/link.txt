@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/my_signal.dir/test_settimer.c.o CMakeFiles/my_signal.dir/sigsetjmp.c.o  -o my_signal 
